@@ -2,6 +2,8 @@
 
 Este projeto implementa um explorador interativo de filmes baseado em consultas SPARQL à Wikidata, com uma interface construída em Streamlit.
 
+O projeto foi publicado pelo proprio streamlit e a url para acesso sem necessidade de download dos arquivos é: https://exploradorfilmeswikidata.streamlit.app/
+
 ## Estrutura do Projeto
 
 ```
